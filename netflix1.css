@@ -16,7 +16,7 @@
   .container {
     background-color: rgba(0, 0, 0, 0.274);
     width: 93%;
-    height: 98vh;
+    height: 98%;
     margin: 10px auto;
     
   }
@@ -49,36 +49,28 @@ span{
     display: inline-block;
     width: 25%;
     height: 79.5%;
+    
     background-color: rgba(0, 0, 0, 0.568);
     margin-left: 36%;
-    padding: 1% 2% 2.8%;
+    padding: 0.8% 2% 1.1%;
     font-size: 14px;
     margin-top: -0.3%;
     font-family: 'Ubuntu', sans-serif;
   }
 
-  #name{
+  #name , #age, #email1{
     padding: 2.5%;
-    width: 90%; 
-    margin: 2% 0;}
+    width: 94%; 
+    margin: 2% 0;
+  }
   
-  #age{
-    padding: 2.5%;
-    width: 90%; 
-    margin: 2% 0;
-  } 
- 
-  #email1{
-    padding: 2.5%;
-    width: 90%; 
-    margin: 2% 0;
-  } 
+
 
   #content-type{
     padding: 2%;
-    width: 90%; 
+    width: 92%; 
     margin: 2% 0 2.5%;
-  }
+  } 
   
 
   #feedback{
